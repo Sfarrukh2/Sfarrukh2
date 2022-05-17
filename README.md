@@ -8,5 +8,5 @@
 Sfarrukh2/Sfarrukh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> Gym is fun...
-Devops s more fun...
+Devops is more fun!
 
